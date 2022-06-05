@@ -1,0 +1,6 @@
+cryptography===37.0.2
+acme===1.27.0
+josepy===1.13.0
+requests===2.27.1
+pathlib===1.0.1
+ruamel-yaml===0.17.21
